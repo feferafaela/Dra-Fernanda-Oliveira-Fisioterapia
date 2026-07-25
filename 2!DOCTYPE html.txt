@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Dra. Fernanda Rafaela Oliveira</title>
+
+<style>
+
+body{
+
+margin:0;
+padding:0;
+background:#fdf8f4;
+font-family:Arial,Helvetica,sans-serif;
+text-align:center;
+color:#222;
+
+}
+
+.container{
+
+max-width:480px;
+margin:auto;
+padding:30px 20px;
+
+}
+
+.logo{
+
+font-size:70px;
+
+}
+
+.nome{
+
+font-size:36px;
+font-weight:bold;
+margin-top:10px;
+
+}
+
+.subtitulo{
+
+font-size:18px;
+margin-top:10px;
+margin-bottom:25px;
+
+}
+
+.lista{
+
+font-size:22px;
+line-height:1.7;
+margin-bottom:35px;
+
+}
+
+.botao{
+
+display:block;
+
+background:#1fb981;
+
+color:white;
+
+text-decoration:none;
+
+padding:18px;
+
+margin:15px auto;
+
+border-radius:16px;
+
+font-size:22px;
+
+font-weight:bold;
+
+width:90%;
+
+box-shadow:0 8px 18px rgba(0,0,0,.18);
+
+transition:.25s;
+
+}
+
+.botao:hover{
+
+transform:scale(1.03);
+
+}
+
+.rodape{
+
+margin-top:35px;
+
+font-size:18px;
+
+line-height:1.8;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="logo">⚕️</div>
+
+<div class="nome">
+
+Dra. Fernanda Rafaela Oliveira
+
+</div>
+
+<div class="subtitulo">
+
+Fisioterapeuta • CREFITO 235151-F
+
+</div>
+
+<div class="lista">
+
+RPG (Método Souchard)<br>
+
+Pilates<br>
+
+Terapia Manual<br>
+
+Fisioterapia<br>
+
+🏡 Atendimento em domicílio
+
+</div>
+
+<a class="botao"
+href="https://wa.me/5544988656867?text=Olá%20Dra.%20Fernanda!%20Gostaria%20de%20agendar%20uma%20avaliação."
+target="_blank">
+
+📲 Agendar avaliação
+
+</a>
+
+<a class="botao"
+href="https://instagram.com/drafernandaoliveirafisio"
+target="_blank">
+
+📷 Instagram
+
+</a>
+
+<a class="botao"
+href="https://maps.google.com/?q=Avenida+Tiradentes+462,+Sala+2,+Maringá,+PR"
+target="_blank">
+
+📍 Como chegar
+
+</a>
+
+<a class="botao"
+href="contato.vcf">
+
+💾 Salvar meu contato
+
+</a>
+
+<div class="rodape">
+
+📞 (44) 98865-6867
+
+<br><br>
+
+📍 Avenida Tiradentes, 462 – Sala 2<br>
+2º andar – Edifício Monolux<br>
+Ao lado do Hotel Metrópole<br>
+Maringá – PR
+
+</div>
+
+<a class="botao"
+href="https://wa.me/5544988656867?text=Olá%20Dra.%20Fernanda!%20Gostaria%20de%20agendar%20uma%20avaliação."
+target="_blank">
+
+📲 Agendar avaliação
+
+</a>
+
+<a class="botao"
+href="https://instagram.com/drafernandaoliveirafisio"
+target="_blank">
+
+📷 Instagram
+
+</a>
+
+<a class="botao"
+href="https://maps.google.com/?q=Avenida+Tiradentes+462,+Sala+2,+Maringá,+PR"
+target="_blank">
+
+📍 Como chegar
+
+</a>
+
+<a class="botao"
+href="contato.vcf">
+
+💾 Salvar meu contato
+
+</a>
+
+<div class="rodape">
+
+📞 (44) 98865-6867
+
+<br><br>
+
+📍 Avenida Tiradentes, 462 – Sala 2<br>
+2º andar – Edifício Monolux<br>
+Ao lado do Hotel Metrópole<br>
+Maringá – PR
+
+</div>
+
+<footer style="margin-top:50px;padding:20px;color:#777;font-size:14px;">
+
+© 2026
+
+<strong>Dra. Fernanda Rafaela Oliveira</strong>
+
+<br><br>
+
+Fisioterapia • RPG • Pilates • Terapia Manual
+
+</footer>
+
+</div>
+
+</body>
+
+</html>
+<a class="botao"
+href="https://wa.me/?text=Olá!%20Quero%20indicar%20uma%20excelente%20fisioterapeuta.%20Conheça%20o%20cartão%20digital%20da%20Dra.%20Fernanda%20Rafaela%20Oliveira:%20COLE_AQUI_O_LINK_DO_SEU_CARTÃO"
+target="_blank">
+
+🤝 Indicar para um amigo
+
+</a>
